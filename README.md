@@ -19,6 +19,6 @@ docker run -d -p 8080:8080 echo-http-codes
 # Usage
 
 Open with browser or services
-http://<IP>:8080/http?code=NUMBER
+http://IP_OR_ADDRESS:8080/http?code=NUMBER
 
 there, NUMBER - any http code
