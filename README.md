@@ -1,7 +1,7 @@
 # Build & Run
 
 ```shell
-docker run -d -p 8080:8080 kixiro/echo-http-codes
+docker run -d -p 8080:8080 kixiro/echo-http-codes:1.0.0
 ```
 
 or
